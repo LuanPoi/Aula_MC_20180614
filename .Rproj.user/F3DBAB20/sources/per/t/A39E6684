@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1446628261",
     "id" : "A39E6684",
-    "lastKnownWriteTime" : 1528987144,
-    "last_content_update" : 1528987144433,
+    "lastKnownWriteTime" : 1528991495,
+    "last_content_update" : 1528991495330,
     "path" : "C:/Users/luan.poi/Aula_MC_20180614/main.r",
     "project_path" : "main.r",
     "properties" : {
+        "cursorPosition" : "29,43",
+        "scrollLine" : "16",
         "tempName" : "Untitled1"
     },
     "relative_order" : 1,
