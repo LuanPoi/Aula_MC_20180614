@@ -23,7 +23,7 @@ main <- function(){
   }
   
   resp <- resp / (2 * iteracoes)
-  resp <- resp * max - min
+  resp <- resp * (max - min)
   #--- Calculos ---#
   
   #--- Calculo do erro real ---#
